@@ -7,4 +7,5 @@ I'm Immanuel kituku, a Computer science student currently a 3rd year.
 <p align="center">
  <a href="https://www.facebook.com/ManuelTechs/"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png"></a>
  <a href="https://wa.me/+254703103690"><img src="https://img.icons8.com/office/50/000000/whatsapp.png"></a>
+ <a href="https://t.me/ManuelTechs"><img src="https://img.icons8.com/fluent/50/000000/telegram-app.png"/></a>
 </p>
