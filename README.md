@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Immanuel kituku, a Computer science student currently a 3rd year.
+I'm Immanuel kituku, a Computer science student currently a 4th year.
  
 ![ManuelTechs github stats](https://github-readme-stats.vercel.app/api?username=Manuel254&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel254&layout=compact&theme=buefy)
