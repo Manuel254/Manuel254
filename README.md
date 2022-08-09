@@ -5,7 +5,7 @@ I'm Immanuel kituku, a Computer scientist who is enthusiasituic and passionate a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel254&layout=compact&theme=buefy)
 
 <p align="center">
- <a href="https://www.linkedin.com/in/immanuel-kituku/"><img src="https://img.icons8.com/linkedin"></a>
+ <a href="https://www.linkedin.com/in/immanuel-kituku/"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
  <a href="https://wa.me/+254703103690"><img src="https://img.icons8.com/office/50/000000/whatsapp.png"></a>
  <a href="https://t.me/ManuelTechs"><img src="https://img.icons8.com/fluent/50/000000/telegram-app.png"/></a>
 </p>
