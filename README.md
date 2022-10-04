@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Immanuel kituku, a Computer scientist who is enthusiasituic and passionate about coding and building things in general that make an impact to society.
+I'm Immanuel kituku, a Computer scientist who is enthusiastic and passionate about coding and building things in general that make an impact to society.
  
 ![ManuelTechs github stats](https://github-readme-stats.vercel.app/api?username=Manuel254&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel254&layout=compact&theme=buefy)
